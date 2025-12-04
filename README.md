@@ -1,23 +1,8 @@
-# 🛒 E-commerce Backend Microservices
+🛒 E-Commerce Backend Microservices
 
-This project is a collection of microservices that together form the backend for an E-commerce platform.  
-Each microservice is built with **Java Spring Boot** and follows a modular design for scalability and maintainability.
+This backend was developed using Spring Framework, with JWT and Spring Security for security. PayPal was integrated for payments, Twilio for SMS, and Java Mail Sender for emails. Thymeleaf was used to visualize the payment process.
 
-## 📌 Microservices
-
-- **[Product Service](https://github.com/AbdulHakeem427/ProductServiceMS)**  
-  Manages product information including catalog, availability, and pricing.
-
-- **[User Service](https://github.com/AbdulHakeem427/UserServiceMS)**  
-  Handles user registration, authentication, and profile management.
-
-- **[Payment Service](https://github.com/AbdulHakeem427/PaymentsMS)**  
-  Processes transactions and integrates with payment gateways.
-
-- **[Email Service](https://github.com/AbdulHakeem427/EmailServiceMS)**  
-  Sends order confirmations, notifications, and other email communications.
-
-
-
-👨‍💻 Author: Abdul Hakeem  
+👨‍💻 Abdul Hakeem
+Java Developer | Spring Boot | Microservices | API Design
 💼 Open to Software Development Roles
+📧 aabdulhakeem427@gmail.com
