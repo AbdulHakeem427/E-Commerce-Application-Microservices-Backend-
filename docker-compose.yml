@@ -4,7 +4,7 @@ services:
     container_name: mysql_docker
     environment:
       MYSQL_ROOT_USERNAME: root
-      MYSQL_ROOT_PASSWORD: 41567HOLA
+      MYSQL_ROOT_PASSWORD: root
       MYSQL_DATABASE: e-commerce
     ports:
       - "3307:3306"
@@ -113,4 +113,5 @@ networks:
     driver: bridge
 
 volumes:
+
   mysql-volume:
